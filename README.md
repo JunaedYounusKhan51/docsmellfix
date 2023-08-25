@@ -1,4 +1,4 @@
-# A Context-Enhanced LLM to Fix API Documentation Smells
+# A Context-Enhanced LLM for Fixing Documentation Smells
 
 ## Documentation Smell
 Documentation smells can be described as bad documentation styles that do not necessarily make a documentation incorrect but make it difficult to understand and use. We presented 5 types of documentation smells. They are:
